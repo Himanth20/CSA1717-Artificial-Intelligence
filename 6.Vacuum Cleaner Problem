@@ -1,4 +1,3 @@
-print("Ruchitha")
 class VacuumCleaner:
     def __init__(self):
         self.position = 0  # Position of the vacuum cleaner (0: Left, 1: Right)
